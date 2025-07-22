@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+.env
+venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+build/
+
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Database
+*.db
+*.sqlite3
+
+# Others
+*.pdf
+*.zip
+*.tar.gz
+*.bak
